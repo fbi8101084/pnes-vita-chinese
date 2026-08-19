@@ -1,6 +1,6 @@
 # pNES Vita Chinese
 
-PS Vita 上的 pNES 7.1 中文檔名支援版本。  
+PS Vita 上的 pNES 7.1 中文檔名支援版本。
 Chinese UTF-8 ROM filename support for pNES 7.1 on PS Vita.
 
 ## 中文說明
@@ -18,6 +18,10 @@ pNES 7.1 本身已具備 UTF-8 字串解碼能力，但官方預設的 `default.
 - `古巴戰士.nes`
 
 已於 PS Vita 實機測試。
+
+## 實機畫面 / Screenshot
+
+![pNES 7.1 中文檔名於 PS Vita 實機運行](docs/pnes-chinese-psvita.jpg)
 
 ## English
 
@@ -44,7 +48,7 @@ https://github.com/Cpasjuste/pemu
 
 ## Font
 
-Noto Sans SC  
+Noto Sans SC
 Copyright Google LLC
 
 Licensed under the SIL Open Font License 1.1:
