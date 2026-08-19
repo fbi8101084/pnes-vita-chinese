@@ -35,7 +35,7 @@ No emulator core modifications are required.
 
 ## Installation
 
-1. Download `pnes-7.1-chinese.vpk` from Releases.
+1. Download [pnes-7.1-chinese.vpk](https://github.com/fbi8101084/pnes-vita-chinese/releases/download/v1.0.0/pnes-7.1-chinese.vpk) from Releases.
 2. Transfer the VPK to your PS Vita.
 3. Install it using VitaShell.
 4. Launch pNES normally.
